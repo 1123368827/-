@@ -24,7 +24,7 @@ graph TD
     F --> G[策略建议]
 ```
 
-
+```mermaid
 sequenceDiagram
     participant 用户数据
     participant 特征工厂
@@ -33,7 +33,7 @@ sequenceDiagram
     participant 模型引擎
     participant 预警系统
     participant CRM系统
-    
+```
     用户数据->>特征工厂: 原始数据输入
     特征工厂->>动态评估模块: 生成合约有效性指数
     特征工厂->>行为分析模块: 计算通信质量评分
