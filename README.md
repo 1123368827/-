@@ -29,6 +29,9 @@ pie
     "消费特征" : 25
     "通信行为" : 45
     "合约状态" : 15
+```
+
+
 - ​**数据示例**：
 ![image](https://github.com/user-attachments/assets/f468b8ff-a921-4510-bb5c-7e3247fb9074)
 
